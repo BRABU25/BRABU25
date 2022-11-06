@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BRABU25
+- 👋 Hi, I’m @BRABU
 - 👀 I’m interested in Problem Solving
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on Development
